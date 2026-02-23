@@ -1,0 +1,12 @@
+# Rime user dictionary
+#@/db_name	moran
+#@/db_type	userdb
+#@/rime_version	1.13.1
+#@/tick	6
+#@/user_id	4fd6ff6b-4a27-42d3-ae31-47d385fb1406
+gj;xx jt;jb 	感觉	c=1 d=1 t=4
+jm;vj 	简	c=1 d=1 t=2
+mo;gm rj;hq 	魔然	c=1 d=1 t=1
+mz;du wf;km ti;uy 	没问题	c=1 d=1 t=6
+ti;fu ui;ex 	提示	c=1 d=1 t=3
+ye;gg 	也	c=1 d=1 t=5
